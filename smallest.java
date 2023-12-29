@@ -1,0 +1,29 @@
+import  java.util.*;
+class smallest
+{
+	public static void main(String[] args) 
+	{
+		Scanner s=new Scanner(System.in);
+		int a,b,c;
+		a=s.nextInt();
+		b=s.nextInt();
+		c=s.nextInt();
+		System.out.println("enter 3 nos");
+		if(a<b && a<c)
+		{
+			System.out.println(a+"is smallest");
+		}
+
+		else
+			if(b<c)
+		{
+			System.out.println(b+"is smallest");
+			
+		}
+		else
+		{
+			System.out.println(c+"is smallest");
+		}
+		
+	}
+}
