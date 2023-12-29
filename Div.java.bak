@@ -12,8 +12,8 @@ class Div
 		if(b==0)
 		{
 			System.out.println("second no connot be zero");
-			b=1;
-				
+			b=1:
+				;
 		}
 		r=a/b;
 		System.out.println(r);
