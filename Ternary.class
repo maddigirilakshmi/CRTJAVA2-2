@@ -1,0 +1,10 @@
+Êþº¾   4 ,
+ 	  	  
+  
+  	  
+     <init> ()V Code LineNumberTable main ([Ljava/lang/String;)V StackMapTable    
+SourceFile Ternary1.java 
+  java/util/Scanner ! " # 
+ $ % & ' ( ) * + Ternary java/lang/Object [Ljava/lang/String; java/lang/System in Ljava/io/InputStream; (Ljava/io/InputStream;)V nextInt ()I out Ljava/io/PrintStream; java/io/PrintStream println (I)V    	        
+           *· ±            	       Œ     A» Y² · L+¶ =+¶ >+¶ 6¢ ¢ § ¢ § 6² ¶ ±               	  
+   8  @      ÿ *     	A      
