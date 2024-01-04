@@ -1,15 +1,26 @@
-class Main
+public class Main
 {
-public static void main(String[] args)
-{
-int i,j;
-for(i=1;i<=5;i++)
-{
-for(j=1;j<=5;j++)
-{
-System.out.print(j+" ");
-}
-System.out.println();
-}
-}
+	int a;
+	String b;
+	void get(int x,String y)
+	{
+		a=x;
+	    b=y;
+    }
+		void show()
+		{
+			System.out.println("a="+a+" b="+b);
+		}
+
+	public static void main(String[] args) 
+	{
+		int a,b;                                                                                                                                                                                          
+		Main s1=new Main();
+		Main s2=new Main();
+		s1.get(12,"sajid");
+		s2.get(435,"kaif");
+		s1.show();
+		s2.show();
+	
+	}
 }
